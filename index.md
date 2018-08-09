@@ -7,7 +7,7 @@ RubyMotion lets you quickly develop cross-platform native apps for iOS, Android 
 
 We meet online via Google Hangouts on the second Wednesday of the month from 7-9pm PDT.
 
-## Next Meetup: August 8, 2018 at 7pm PDT
+## Next Meetup: September 12, 2018 at 7pm PDT
 
 Join us for presentations, demos, discussions, and help getting started with RubyMotion.
 
